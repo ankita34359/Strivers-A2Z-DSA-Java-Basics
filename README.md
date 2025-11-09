@@ -11,41 +11,6 @@ Each topic includes:
 
 ---
 
-## 📂 Repository Structure
-```
-Strivers-A2Z-Java-Basics/
-│── 01_InputOutput/
-│   ├── ReadWrite.java   # Java Code for Input/Output
-│   ├── Code.md         # Explanation & Examples
-│
-│── 02_DataTypes/
-│   ├── DataTypes.java   # Java Code for Data Types
-│   ├── Code.md         # Explanation & Examples
-│
-│── 03_IfElse_Switch/
-│   ├── Conditions.java  # Java Code for If-Else & Switch
-│   ├── Code.md         # Explanation & Examples
-│
-│── 04_Arrays/
-│   ├── Arrays.java      # Java Code for Arrays
-│   ├── notes.md         # Explanation & Examples
-│
-│── 05_Strings/
-│   ├── Strings.java     # Java Code for Strings
-│   ├── Code.md         # Explanation & Examples
-│
-│── 06_Loops/
-│   ├── Loops.java       # Java Code for Loops (For/While)
-│   ├── Code.md         # Explanation & Examples
-│
-│── 07_TimeComplexity/
-│   ├── Complexity.java  # Java Code for Time Complexity
-│   ├── Code.md         # Explanation & Examples
-│
-│── README.md
-```
----
-
 ## 🚀 How to Use
 1. **Clone the repository:**
    ```bash
